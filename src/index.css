@@ -18,3 +18,13 @@
   -webkit-text-size-adjust: 100%;
 }
 
+.glow {
+  text-shadow: 0 0 10px rgba(14, 165, 233, 0.1), 0 0 20px rgba(14, 165, 233, 0.1), 0 0 30px rgba(14, 165, 233, 0.1), 0 0 40px rgba(14, 165, 233, 0.1), 0 0 50px rgba(14, 165, 233, 0.1), 0 0 60px rgba(14, 165, 233, 0.1), 0 0 70px rgba(14, 165, 233, 0.1);
+}
+
+.buttonshadow:hover{
+  box-shadow: 0 0 2px #03e9f4,
+  0 0 12px #03e9f4,
+  0 0 25px #03e9f4,
+  0 0 50px 
+}
