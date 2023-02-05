@@ -3,7 +3,7 @@ import Navbar from "../components/navbar";
 
 function LoginPage(){
     return (
-        <Navbar></Navbar>
+        <Navbar />
     )
 }
 
