@@ -5,7 +5,7 @@ function Navbar(){
     const [open, setOpen] = useState(false);
 
     function scrollToElement(elementname){
-        if (window.location.pathname === '/login'){
+        if (window.location.pathname == '/login' || window.location.pathname == '/register'){
             window.location = '/'
         }
 
